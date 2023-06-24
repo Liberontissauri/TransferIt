@@ -1,0 +1,6 @@
+[submodule "TransferIt-Frontend"]
+	path = TransferIt-Frontend
+	url = https://github.com/Liberontissauri/TransferIt-Frontend
+[submodule "TransferIt-Backend"]
+	path = TransferIt-Backend
+	url = https://github.com/Liberontissauri/TransferIt-Backend
